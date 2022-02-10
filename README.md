@@ -19,6 +19,8 @@ Apart from automating and fixing the xlsx file, a bar chart is also added to dis
 * Values are then passed to instance of BarChart and is then addded to the sheet.
 * Aftermost, Excel file is then saved.
 
+[Note] : Transactions file before updation is also kept for reference. (before_updated_transactions.xlsx) 
+
 ## Authors
 
 - [@bikramdeepsingh](https://github.com/BikramdeepSingh)
