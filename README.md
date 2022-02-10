@@ -7,7 +7,7 @@ Apart from automating and fixing the xlsx file, a bar chart is also added to dis
 
 ## Screenshots
 
-![App Screenshot](https://github.com/BikramdeepSingh/AutoXL/blob/main/images/xlsx%20file%20after%20automation.PNG)
+![App Screenshot](https://github.com/BikramdeepSingh/AutoXL/blob/main/images/xlsx%20file%20after%20automation.PNG?raw=true)
 
 
 ## How code works
@@ -18,8 +18,6 @@ Apart from automating and fixing the xlsx file, a bar chart is also added to dis
 * Built in classes of openpyxl i.e. BarChart and Reference are used to acces the values of updated rows and column.
 * Values are then passed to instance of BarChart and is then addded to the sheet.
 * Aftermost, Excel file is then saved.
-
-[Note] : Transactions file before updation is also kept for reference. (before_updated_transactions.xlsx) 
 
 ## Authors
 
