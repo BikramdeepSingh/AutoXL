@@ -1,7 +1,7 @@
 import openpyxl as xl
 
 
-def process_spreedsheet(filename):
+def process_spreadsheet(filename):
     wb = xl.load_workbook(filename)
     sheet = wb['Sheet1']
 
